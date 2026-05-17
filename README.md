@@ -102,6 +102,8 @@ To provide a robust, resilient deployment template, the comprehensive ingestion 
 * **The Knowledge Core:** Resolved events are structured and preserved within a dedicated operational knowledge repository. This structural memory allows engineers to dynamically cross-reference live triage scenarios against historical telemetry parameters, ownership metadata, and successful remediation steps.
 * **Remediation & Escalation:** High-confidence, straightforward operational faults trigger immediate Unattended Healing protocols. Complex conditions route an Assisted Fix recommendation layout onto the active operator display panel. The console evaluates active MTTA durations via the visual-auditory siren matrices. If an unacknowledged incident breaches defined targets, the roster orchestration tier automates targeted outbound paging down strict organizational escalation lines from Primary to Secondary, and finally to the Line Manager.
 
+<img width="720" height="960" alt="image" src="https://github.com/user-attachments/assets/992064be-3470-49a4-8187-a4e93b6b98cf" />
+
 ---
 
 ## 6. Intelligent Self-Healing & Remediation
